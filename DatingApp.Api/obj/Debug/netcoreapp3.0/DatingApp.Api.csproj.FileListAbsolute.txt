@@ -49,3 +49,9 @@
 /Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
 /Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Data/UserSeedData.json
+/Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
+/Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/Users/bvc/Documents/dev/udemy/DatingApp/DatingApp.Api/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
